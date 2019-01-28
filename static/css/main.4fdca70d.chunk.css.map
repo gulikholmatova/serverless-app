@@ -1,0 +1,1 @@
+{"version":3,"sources":["/Users/gulikholmatova/Downloads/serverless-app/src/index.css"],"names":[],"mappings":"AAAA,KACE,kBAAmB,AACnB,UAAY,CACb,AAED,GACE,SAAW,CACZ,AAED,aAEE,WAAa,CACd","file":"main.4fdca70d.chunk.css","sourcesContent":["body {\n  text-align: center;\n  margin: 20%;\n}\n\nh1 {\n  margin: 5%;\n}\n\nlabel,\nbutton {\n  margin: 2.5%;\n}\n"]}
