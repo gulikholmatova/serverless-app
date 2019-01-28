@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  margin: 20%;
+}
+
+h1 {
+  margin: 5%;
+}
+
+label,
+button {
+  margin: 2.5%;
+}
